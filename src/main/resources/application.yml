@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: springboot-sleuth-zipkins
+
+server:
+  port: 8828
